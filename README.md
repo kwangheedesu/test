@@ -1,3 +1,3 @@
 # Test GitHub
 
-Test GitHup
+Test
